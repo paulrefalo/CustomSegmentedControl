@@ -9,7 +9,7 @@
 import UIKit
 
 @IBDesignable
-class CustomSegmentedControl: UIControl {
+class UISegmentedControlX: UIControl {
     var buttons = [UIButton]()
     var selector: UIView!
     var selectedSegmentIndex = 0
